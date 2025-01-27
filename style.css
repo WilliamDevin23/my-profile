@@ -195,7 +195,7 @@ aside {
   align-items: center;
   background-color: rgba(222, 222, 222, 0.5);
   backdrop-filter: blur(10px);
-  height: calc(100% - 4rem);
+  height: calc(100% - 10vh);
   padding: 1rem;
   translate: 100% 0%;
   transition: linear;
